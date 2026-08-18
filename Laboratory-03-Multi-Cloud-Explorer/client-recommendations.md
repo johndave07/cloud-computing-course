@@ -26,3 +26,12 @@ Recommended Services:
 Amazon EC2
 Elastic Load Balancing
 Amazon Aurora
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS offers a wide range of scalable services that allow startups to begin with smaller resources and expand as their business grows. |
+| Enterprise Organization | Microsoft Azure | Azure provides strong enterprise features, security, and integration with existing business systems and Microsoft technologies. |
+| Microsoft Environment | Microsoft Azure | Azure is the best choice for organizations using Windows Server, Microsoft 365, and Microsoft Entra ID because of its strong Microsoft ecosystem integration. |
+| AI / Machine Learning | Google Cloud Platform | GCP provides powerful AI and Machine Learning services, including Vertex AI, as well as infrastructure suitable for demanding workloads. |
+| Kubernetes Deployment | Google Cloud Platform | GCP is a strong choice for Kubernetes deployments because Google Kubernetes Engine (GKE) provides a managed Kubernetes environment. |
+| Global Web Application | AWS | AWS provides extensive global infrastructure, scalable computing services, load balancing, and availability features for applications serving users worldwide. |
