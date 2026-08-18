@@ -1,34 +1,12 @@
-Category
-AWS
-Microsoft Azure
-Google Cloud Platform
-Launch Year
-2006
-2010
-2008
-Compute Service
-Amazon EC2
-Azure Virtual Machines
-Google Compute Engine
-Storage Service
-Amazon S3
-Azure Blob Storage
-Google Cloud Storage
-Networking Service
-Amazon VPC
-Azure Virtual Network
-Google Cloud VPC
-Identity Service
-AWS IAM
-Microsoft Entra ID
-Cloud Identity
-Primary Strength
-Broad range of services and global infrastructure
-Enterprise integration and Microsoft technologies
-Artificial Intelligence, Machine Learning, and Kubernetes
-Ideal Organizations
-Startups, enterprises, e-commerce, and organizations with diverse cloud requirements
-Enterprises using Microsoft products and hybrid environments
+| Category | AWS | Microsoft Azure | Google Cloud Platform |
+|---|---|---|---|
+| Launch Year | 2006 | 2010 | 2008 |
+| Compute Service | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
+| Storage Service | Amazon S3 | Azure Blob Storage | Google Cloud Storage |
+| Networking Service | Amazon VPC | Azure Virtual Network | Google Cloud VPC |
+| Identity Service | AWS IAM | Microsoft Entra ID | Cloud Identity |
+| Primary Strength | Broad range of services and global infrastructure | Enterprise integration and Microsoft technologies | Artificial Intelligence, Machine Learning, and Kubernetes |
+| Ideal Organizations | Startups, enterprises, e-commerce, and organizations with diverse cloud requirements | Enterprises using Microsoft products and hybrid environments | AI/ML companies, data-driven organizations, and container-focused businesses |
 1. Which cloud provider offers the broadest range of services?
 Amazon Web Services (AWS) offers the broadest range of cloud services among the three major providers. It provides services for computing, storage, databases, networking, security, analytics, artificial intelligence, machine learning, and many other technologies.
 2. Which provider best integrates with Microsoft technologies?
